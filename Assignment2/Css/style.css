@@ -118,6 +118,7 @@ p {
 		border: 1px solid black;
 		width: 130px;
 		padding: 5px;
+		text-align: center;
 		background-color: #a0de87;
 		position: absolute;
 		top: 0px;
@@ -130,6 +131,7 @@ p {
 		border: 1px solid black;
 		width: 130px;
 		padding: 5px;
+		text-align: center;
 		background-color: #e4ff00;
 		position: absolute;
 		top: 0px;
@@ -142,6 +144,7 @@ p {
 		border: 1px solid black;
 		width: 130px;
 		padding: 5px;
+		text-align: center;
 		background-color: #00adff;
 		position: absolute;
 		top: 0px;
